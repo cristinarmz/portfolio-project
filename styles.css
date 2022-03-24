@@ -22,7 +22,7 @@ p {
 }
 
 img {
-	width: 70%;
+	width: 100%;
 }
 .hero-section {
 	background-color: var(--secondary-color);
@@ -69,4 +69,14 @@ img {
 		padding: 0;
 		text-align: center;
 	}
+	.about-section {
+		text-align: center;
+	}
+	.about-h2 {
+		font-size: 28px;
+	}
+}
+
+.about {
+	padding: 160px 20px;
 }
