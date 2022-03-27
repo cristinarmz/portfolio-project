@@ -130,11 +130,12 @@ nav li.active a {
 
 footer .social-icon {
 	color: var(--branding-color);
-	margin: o 20px;
 	background-color: var(--secondary-color);
-	padding: 10px 10px;
+	margin: 0 20px;
+	padding: 12px 12px;
 	font-size: 18px;
 	border-radius: 50%;
+	transition: all 100ms ease-in-out;
 }
 
 footer .social-icon:hover {
@@ -145,6 +146,7 @@ footer .social-icon:hover {
 footer .email-link {
 	text-decoration: none;
 	color: black;
+	font-size: 24px;
 }
 
 footer .email-link:hover {
