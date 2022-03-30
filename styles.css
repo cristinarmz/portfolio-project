@@ -151,6 +151,7 @@ footer .email-link {
 
 footer .email-link:hover {
 	color: var(--branding-color);
+	transition: all 120ms ease-in-out;
 }
 
 footer .content-box {
